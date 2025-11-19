@@ -1,0 +1,7 @@
+{
+  "name": "The Oblivious Caddie",
+  "description": "An AI golf coach that has absolutely no concept of what golf actually is, offering confidently incorrect and hilarious advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
